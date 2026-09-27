@@ -1,0 +1,6 @@
+{
+  "name": "DistractionFreeViewer",
+  "description": "Isolated distraction-free viewer for social media and video links without feeds or recommendations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
